@@ -1,0 +1,14 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "main.scss",
+        "partials/_variables.scss",
+        "partials/_bases.scss",
+        "partials/_layout.scss",
+        "partials/_component.scss",
+        "partials/_responsiveness.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
